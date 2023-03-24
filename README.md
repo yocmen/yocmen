@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
+I'm Yocsel Mendoza, a software engineer with a passion for building web applications that are optimized for performance and user experience. Currently, I'm working at [Workvivo](https://workvivo.com/) as a software engineer, where I'm responsible for developing and maintaining the platform's frontend and backend components.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yocmen-lightgrey)](https://github.com/yocmen)
-[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-yocmen-orange)](https://stackoverflow.com/users/5174687/yocmen?tab=profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yocsel&nbsp;Mendoza-blue)](https://www.linkedin.com/in/yocmen/)
-[![Website](https://img.shields.io/badge/Website-yocmen.com-yellowgreen)](https://yocmen.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Y0cmen-9cf)](https://twitter.com/y0cmen)
+In the past, I worked on vtutor.com, an e-commerce/e-learning platform that utilized ReactJS and GatsbyJS for the frontend and serverless functions, Lambda, and NodeJS for the APIs. For vtutor.com, I focused heavily on asset optimization to provide the fastest response to our users, especially on mobile devices. By leveraging serverless technology and various services, including a Content Delivery Network (CDN), we were able to deliver exceptional performance to our users. Additionally, I was responsible for integrating PayPal and Stripe as our payment processors.
 
-The new project is live, vtutor.com, an e-commerce / e-learning platform that uses ReactJS / GatsbyJS for the interface and the serverless function / lambda / nodeJS for the APIs, asset optimization is a key part for that e-commerce becomes essential on mobile devices. devices, using serverless technology and different services, including CDN, we managed to provide the fastest response to our users, PayPal and Stripe are our options to process all our payments.
+You can find me on various platforms:
+
+- [GitHub](https://github.com/yocmen)
+- [Stack Overflow](https://stackoverflow.com/users/5174687/yocmen?tab=profile)
+- [LinkedIn](https://www.linkedin.com/in/yocmen/)
+- [My Website](https://yocmen.dev)
+- [Twitter](https://twitter.com/y0cmen)
+
+Feel free to connect with me!
